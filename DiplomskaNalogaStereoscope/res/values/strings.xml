@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ * Copyright (c) 2014, Denis Korinšek - korinsekdenis@gmail.com
+ * All rights reserved.
+ * 
+ * Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ * 
+ * 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+ * 
+ * 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+ * 
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ *
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Stereoscope</string>
+    <string name="nastavitve">Nastavitve</string>
+    <string name="ni_povezano">Nisi povezan z napravo preko bluetootha</string>
+    <string name="btNiPovezanIzhod">Bluetooth ni vklopljen. Zapuščam aplikacijo.</string>
+    <string name="naslovPovetujem">Povezujem..</string>
+    <string name="naslovPovezanNa">Povezan z napravo: <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="naslovNiPovezave">Ni povezave</string>
+    <string name="btNiDosegljiv">Bluetooth ni vklopljen</string>
+    <string name="slikaPrejeta">Slika prejeta</string>
+    <string name="povezanNaNapravo">Povezan z</string>
+    <string name="scanning">Iščem naprave</string>
+    <string name="izberiNapravo">Izberi napravo</string>
+    <string name="niPovezanosti">Nobena naprava ni bila povezana</string>
+    <string name="neNajdemNaprav">Ne najdem naprav</string>
+    <string name="povezaneNaprave">Povezane naprave</string>
+    <string name="dosegliveDrugeNaprave">Druge doseglive naprave</string>
+    <string name="isci">Išči naprave</string>
+    <string name="povezi">Poveži napravo</string>
+    <string name="vidnost">Naredi napravo vidno</string>
+    <string name="shranjeno">Shranjeno</string>
+    <string name="shrani">Shrani</string>
+    <string name="premikajOn">Premikaj ON</string>
+    <string name="premikajOff">Premikaj OFF</string>
+    <string name="obreziOn">Obreži ON</string>
+    <string name="obreziOff">Obreži OFF</string>
+    <string name="btEnaNaprava">Ena naprava</string>
+    <string name="btDveNapravi">Dve napravi</string>
+    <string name="btGalerija">Galerija</string>
+    <string name="osveziGalerijo">Osveži galerijo</string>
+</resources>
